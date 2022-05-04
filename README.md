@@ -2,7 +2,7 @@
 
 - 🤞 looking for an internship 
 - 👨‍🎓 Studying software engineering
-- 💼 Curriculum   👉<a href="https://www.canva.com/design/DAE_NBX0XeM/47mliP6hLWCHcYej9gPpXg/view?utm_content=DAE_NBX0XeM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" target="_blank">📄👈</a>
+- 💼 Curriculum   👉<a href="https://www.canva.com/design/DAE_qXM8D4A/4tEdCgH_NWeFylqc_Bfy-A/edit?utm_content=DAE_qXM8D4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">📄👈</a>
 <br>
  <a href="https://www.linkedin.com/in/uellingtonoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
